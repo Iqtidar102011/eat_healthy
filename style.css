@@ -35,3 +35,18 @@ h1 {
     width: 100%;
     padding-right: 5%;
 }
+
+.about_me {
+    background-image: url(images/shapes/7.png);
+    background-size: cover;
+}
+
+.edit {
+    width: 100%;
+    padding-right: 10%;
+}
+
+.edit img {
+    width: 100%;
+    padding-left: 10%;
+}
